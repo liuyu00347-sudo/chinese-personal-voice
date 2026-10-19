@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "author_id": "default",
+  "revision": 0,
+  "status": "untrained",
+  "updated_at": null,
+  "corpus_fingerprint": "",
+  "calibrated_contexts": [],
+  "context_registers": {
+    "wechat": "wechat",
+    "academic": "academic",
+    "report": "report",
+    "spoken": "spoken",
+    "casual": "casual"
+  },
+  "dimensions": {
+    "D01": {
+      "name": "用词与搭配",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D02": {
+      "name": "句式与语序",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D03": {
+      "name": "节奏与信息密度",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D04": {
+      "name": "思路展开",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D05": {
+      "name": "解释与论证",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D06": {
+      "name": "语气与判断力度",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D07": {
+      "name": "听众关系",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D08": {
+      "name": "情绪与修辞",
+      "status": "unobserved",
+      "rules": []
+    },
+    "D09": {
+      "name": "场景变化与表达边界",
+      "status": "unobserved",
+      "rules": []
+    }
+  },
+  "validation": []
+}

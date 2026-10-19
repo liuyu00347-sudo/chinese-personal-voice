@@ -1,0 +1,6 @@
+interface:
+  display_name: "中文个人风格蒸馏"
+  short_description: "从本人中文语料蒸馏九维表达习惯，按文体写作并持续校准个人口吻"
+  default_prompt: "请使用 $chinese-personal-voice，从我的真实中文语料建立个人风格档案，并按目标文体写作。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,26 @@
+# Private local configuration and author data
+settings.local.json
+profile.json
+manifest.json
+metrics.json
+feedback.jsonl
+voice.md
+examples.md
+history/
+inputs/
+outputs/
+work/
+profiles/
+corpus/
+private/
+.env
+.env.*
+*.m4a
+*.mp3
+*.wav
+*.mp4
+*.zip
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
